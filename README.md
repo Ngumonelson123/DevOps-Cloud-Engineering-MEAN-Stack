@@ -2,7 +2,7 @@
 
 A full-stack web application built with MongoDB, Express.js, Angular, and Node.js (MEAN Stack) as part of the StegHub DevOps Cloud Bootcamp.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates the implementation of a complete MEAN stack application, showcasing modern web development practices and cloud deployment strategies. The application provides a robust foundation for building scalable web applications using JavaScript technologies throughout the entire stack.
 
